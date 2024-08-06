@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SuperPowered-Cat
-- 👀 I’m interested in writing and reading books, and a little bit of code
-- 🌱 I’m currently learning C and Java
-- 💞️ I’m looking to collaborate on idk anything which helps me new skills
-- 📫 How to reach me, uh mail me at ompratyush@gmail.com
+- 👀 Interested in developing advanced projects utilising ML frameworks and various domains.
+- 🌱 In-depth knowledge in Machine Learning, Neural Networks, Deep Learning etc with a grasp of C++, Python, Java and Javascript.
+- 💞️ I’m looking to collaborate on anything which helps me grow and gives opportunities to challenge myself
+- 📫 Mail me at ompratyush@gmail.com for any inquiries. 
 
 <!---
 SuperPowered-Cat/SuperPowered-Cat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
